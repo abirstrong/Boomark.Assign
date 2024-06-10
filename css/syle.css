@@ -1,0 +1,27 @@
+/* global css */
+
+  body{
+    font-family: "PT Sans Caption", sans-serif;
+  }
+
+  h1{
+    font-family:"Pacifico", cursive; 
+  background-color: #FEC160 ;
+  font-size: 50px;
+  }
+
+  h2{
+    font-family: "Righteous", sans-serif;
+    background-color: linear-gradient (green, rgb(155, 203, 83)); 
+    
+    background: -webkit-linear-gradient(#3b890a, #9bca36);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      
+  
+  }
+
+  hr{
+    border: 1px dotted #000000;
+  }
+
